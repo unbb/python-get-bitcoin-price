@@ -1,2 +1,2 @@
-# python_get_prize
+# python_get_price
 get specific cryptocoin prize from biance
